@@ -53,7 +53,7 @@ This project uses the following datasets from [MovieLens](https://grouplens.org/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/movie-recommendation-system.git
+git clone https://github.com/jaswanthbadipati/movie-recommendation-system.git
 cd movie-recommendation-system
 ```
 
